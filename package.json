@@ -1,0 +1,17 @@
+{
+  "name": "trbl",
+  "version": "0.0.0",
+  "description": "Expand top-right-bottom-left component arrays in accordance with CSS rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "array",
+    "css"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
